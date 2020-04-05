@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Crio-Launch-Feb-2020-shyam-p-ahduni-edu/precache-manifest.87f2168015d12809c11f79d2f7d88cde.js"
+  "/Crio-Launch-Feb-2020-shyam-p-ahduni-edu/precache-manifest.ce9b08737f427c286ab8c9295d445cbc.js"
 );
 
 self.addEventListener('message', (event) => {
